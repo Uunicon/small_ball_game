@@ -225,7 +225,6 @@ begin
     num7 = (max/1000) % 10;
     end
 
-    
 end
 
 endmodule
